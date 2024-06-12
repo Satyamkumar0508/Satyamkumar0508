@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQENSCpyF2KXBw/profile-displaybackgroundimage-shrink_350_1400/0/1694628296603?e=1715817600&v=beta&t=34Bope85bRz4wRzA1oBCJXQocSEqW05di0d7Z67jEL8)
+
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate Frontend developer and Machine learning Engineer from India</h3>
 <img align="right" width="400" alt="coding" src="https://imgs.search.brave.com/5HkV_hNYK1tUwpe3YXpS0OoP8dNfH_NjuSZIDOR_zrE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL2tvN3R3/SGhvbWhrOEUvMjAw/LmdpZj9jaWQ9Nzkw/Yjc2MTFybnN0bjhr/dHp4dzF5bG1pMm52/eXFiZ2podmpobGxx/OHJ2bXEzYWdtJmVw/PXYxX2dpZnNfc2Vh/cmNoJnJpZD0yMDAu/Z2lmJmN0PWc.gif"
