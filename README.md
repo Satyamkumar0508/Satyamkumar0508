@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
-<h3 align="center">A passionate Frontend developer and Machine learning Engineer from India</h3>
+<h3 align="center">A passionate Frontend developer,Machine learning & Network Engineer from India</h3>
 <img align="right" width="400" alt="coding" src="https://imgs.search.brave.com/5HkV_hNYK1tUwpe3YXpS0OoP8dNfH_NjuSZIDOR_zrE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL2tvN3R3/SGhvbWhrOEUvMjAw/LmdpZj9jaWQ9Nzkw/Yjc2MTFybnN0bjhr/dHp4dzF5bG1pMm52/eXFiZ2podmpobGxx/OHJ2bXEzYWdtJmVw/PXYxX2dpZnNfc2Vh/cmNoJnJpZD0yMDAu/Z2lmJmN0PWc.gif"
 
 🌱 I’m currently learning **AI & ML**
